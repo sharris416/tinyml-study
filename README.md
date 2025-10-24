@@ -100,3 +100,4 @@ This repository tracks my 12-month journey to study applications in TinyML and S
 ---
 
 *Started: October 24, 2025*  
+*Last updated: October 24, 2025*
