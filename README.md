@@ -47,8 +47,8 @@ This repository tracks my 12-month journey to study applications in TinyML and S
 - **Phase 4 (Months 10-12):** Integration & Applications
   - Complete TinyML swarm system
   - Technical report writing
-  - Research proposal development
-  - PhD applications (8-12 programs)
+  - New Research proposal development
+
 
 ## 📂 Repository Structure
 
@@ -62,8 +62,6 @@ This repository tracks my 12-month journey to study applications in TinyML and S
 ## 🔗 Links
 
 - **Blog:** [Coming soon - GitHub Pages]
-- **Google Sheets Tracker:** [Link to tracking spreadsheet]
-- **reMarkable Notes:** Exported PDFs in `math-notes/handwritten/`
 
 ## 📚 Current Focus (Week 1)
 
@@ -89,7 +87,7 @@ This repository tracks my 12-month journey to study applications in TinyML and S
 - [ ] Month 6: 4-node ESP32 mesh operational
 - [ ] Month 9: All core math topics mastered
 - [ ] Month 11: Integration project complete + technical report
-- [ ] Month 12: PhD applications submitted
+- [ ] Month 12: New Research opportunities uncovered
 
 ## 📈 Tracking
 
